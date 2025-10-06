@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on a **mine control system** built with .NET, DDS and gRPC.  <br>- 🌱 I’m currently learning **RTI Connext DDS**.
+- 🔭 I’m currently working on a **mine control system** built with .NET, DDS and gRPC.
+- 🌱 I’m currently learning **RTI Connext DDS**.
 -  👯 I’m looking to collaborate on **.NET backend projects**, **React frontends**, or **Dockerized infrastructures**.
 -  🤔 I’m looking for help with **advanced DDS patterns** and **real-time distributed communication systems**.
 -  💬 Ask me about **.NET architecture**, **API design**, **Docker deployments**, or **home server setups**.
