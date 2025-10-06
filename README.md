@@ -1,5 +1,11 @@
 # 💫 About Me:
-- 🔭 I’m currently working on a **mine control system** built with .NET, DDS and gRPC.  <br>- 🌱 I’m currently learning **RTI Connext DDS**.  <br>- 👯 I’m looking to collaborate on **.NET backend projects**, **React frontends**, or **Dockerized infrastructures**.  <br>- 🤔 I’m looking for help with **advanced DDS patterns** and **real-time distributed communication systems**.  <br>- 💬 Ask me about **.NET architecture**, **API design**, **Docker deployments**, or **home server setups**.  <br>- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/alexandre-cardin/)** or via mail **dev@cardinalexandre.fr**.  <br>- 😄 Pronouns: **he/him**  <br>- ⚡ Fun fact: I run several apps from a **Raspberry Pi server** at home. All containerized and automated, including my personal showcase site **[cardinalexandre.fr](https://welcome.cardinalexandre.fr/)**. Some are **open source**, others are **private projects I own**.<br>
+- 🔭 I’m currently working on a **mine control system** built with .NET, DDS and gRPC.  <br>- 🌱 I’m currently learning **RTI Connext DDS**.
+-  👯 I’m looking to collaborate on **.NET backend projects**, **React frontends**, or **Dockerized infrastructures**.
+-  🤔 I’m looking for help with **advanced DDS patterns** and **real-time distributed communication systems**.
+-  💬 Ask me about **.NET architecture**, **API design**, **Docker deployments**, or **home server setups**.
+-  📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/alexandre-cardin/)** or via mail **dev@cardinalexandre.fr**.
+-  😄 Pronouns: **he/him**
+-  ⚡ Fun fact: I run several apps from a **Raspberry Pi server** at home. All containerized and automated, including my personal showcase site **[cardinalexandre.fr](https://welcome.cardinalexandre.fr/)**. Some are **open source**, others are **private projects I own**.<br>
 
 
 ## 🌐 Socials:
