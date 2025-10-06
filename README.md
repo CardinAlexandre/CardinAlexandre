@@ -6,7 +6,7 @@
 -  💬 Ask me about **.NET architecture**, **API design**, **Docker deployments**, or **home server setups**.
 -  📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/alexandre-cardin/)** or via mail **dev@cardinalexandre.fr**.
 -  😄 Pronouns: **he/him**
--  ⚡ Fun fact: I run several apps from a **Raspberry Pi server** at home. All containerized and automated, including my personal showcase site **[cardinalexandre.fr](https://welcome.cardinalexandre.fr/)**. Some are **open source**, others are **private projects I own**.<br>
+-  ⚡ I run several apps from a **Raspberry Pi server** at home. All containerized and automated, including my personal showcase site **[cardinalexandre.fr](https://welcome.cardinalexandre.fr/)**. Some are **open source**, others are **private projects I own**.<br>
 
 
 ## 🌐 Socials:
