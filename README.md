@@ -1,13 +1,10 @@
 # 💫 About Me:
-- 🔭 I’m currently working on a **mine control system** built with .NET, DDS and gRPC.
+- 🔭 I’m currently working on a **Fleet Management Sysyem** built with .NET and React.
 - 🌱 I’m currently learning **RTI Connext DDS**.
--  👯 I’m looking to collaborate on **.NET backend projects**, **React frontends**, or **Dockerized infrastructures**.
+-  👯 I’m looking to collaborate on **.NET backend projects**, **React/Angular frontends**, or **Dockerized infrastructures**.
 -  🤔 I’m looking for help with **advanced DDS patterns** and **real-time distributed communication systems**.
 -  💬 Ask me about **.NET architecture**, **API design**, **Docker deployments**, or **home server setups**.
 -  📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/alexandre-cardin/)** or via mail **dev@cardinalexandre.fr**.
--  😄 Pronouns: **he/him**
--  ⚡ I run several apps from a **Raspberry Pi server** at home. All containerized and automated, including my personal showcase site **[cardinalexandre.fr](https://welcome.cardinalexandre.fr/)**. Some are **open source**, others are **private projects I own**.<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alexandre-cardin/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev@cardinalexandre.fr) 
